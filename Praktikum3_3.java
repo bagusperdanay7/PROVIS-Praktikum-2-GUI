@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Fauzanlh
+ * @author Bagus Perdana
  */
 public class Praktikum3_3 extends javax.swing.JFrame {
 
