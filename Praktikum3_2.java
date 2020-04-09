@@ -10,7 +10,7 @@ import java.awt.Font;
 
 /**
  *
- * @author Fauzanlh
+ * @author Bagus Perdana
  */
 public class Praktikum3_2 extends javax.swing.JFrame {
 
